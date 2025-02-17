@@ -104,6 +104,7 @@ Single-header C files with clause-less licenses are highlighted.
 *2d*      |[Cimg](https://cimg.eu/)                                                                                              (1 C++, CeCILL)        |Image processing toolkit (60K LoC)
 *2d*      |[Colourblind](https://github.com/azmr/colourblind)                                                                    (1   C, ISC)           |Simulating colourblindness
 *2d*      |[Daisy](https://github.com/sse2/daisy)                                                                                (1 C++, MIT)           |2D Graphics and text
+*2d*      |[GlyType](https://github.com/gamelly/gly-type)                                                                        (1, C, WTFPL2)         |Ultra lightweight font renderer
 *2d*      |[Immediate2D](https://github.com/npiegdon/immediate2d)                                                                (2 C++, PD)            |Zero-configuration, immediate-mode 2D graphics for Windows
 *2d*      |[M_image.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_image.h)                   (1   C, ZLIB)          |Image processing routines
 *2d*      |[RFont](https://github.com/ColleagueRiley/RFont)                                                                      (1   C, ZLIB)          |Simple-to-use lightweight single header modular font rendering library
