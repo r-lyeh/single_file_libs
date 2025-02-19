@@ -198,6 +198,7 @@ Single-header C files with clause-less licenses are highlighted.
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
+*file*    |[ByteArray](https://github.com/dg4l/bytearray)                                                                        (2   C, GPL3)          |Library to read, write and print binary files
 *file*    |[Dirent](https://github.com/tronkko/dirent)                                                                           (1   C, MIT)           |Dirent for Windows: retrieve file & dir info
 *file*    |[Miniphysfs](https://github.com/edubart/miniphysfs)                                                                   (1   C, ZLIB)          |Single-file port of PhysFS, a fs/zip abstraction
 *file*    |[Tfile](https://github.com/rec/tfile)                                                                                 (1 C++, MIT)           |FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
