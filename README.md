@@ -372,6 +372,7 @@ Single-header C files with clause-less licenses are highlighted.
 *prng*    |[Random](https://github.com/effolkronium/random)                                                                      (1 C++, MIT)           |Convenient API for random
 *prng*    |[Ranxoshi256](https://github.com/BareRose/ranxoshi256)                                                              **(1   C, PD)**          |**Xoshiro256 algorithm**
 *prng*    |[SimplexNoise](https://github.com/simongeilfus/SimplexNoise)                                                          (1 C++, BSD2)          |Collection of noise generators
+*prng*    |[UTL Random](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_random.md)                                 (1 C++, MIT)           |Fast random for Monte-Carlo simulations
 *profile* |[MicroProfile](https://github.com/jonasmr/microprofile)                                                               (4 C++, PD)            |CPU (and GPU?) profiler, 1-3 header files, uses miniz internally 
 *profile* |[Prof](https://github.com/cyrus-and/prof)                                                                             (1   C, MIT)           |Profiler for Linux
 *profile* |[Remotery](https://github.com/Celtoys/Remotery)                                                                       (2   C, APACHE2)       |CPU/GPU profiler Win/Mac/Linux, using web browser for viewer
