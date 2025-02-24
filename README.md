@@ -144,7 +144,7 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)                                     (1   C, MIT)           |MS-IMA_ADPCM variant
 *audio*   |[Chibi-xmplay](https://github.com/reduz/chibi-xmplay)                                                                 (2   C, BSD3)          |XM module playback library
 *audio*   |[Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                                                                 (1   C, MIT)           |Library generating 8-bit waveforms of various kinds
-*audio*   |[Miniaudio](https://github.com/dr-soft/miniaudio)                                                                   **(1   C, PD)**          |**Audio playback and capture library**
+*audio*   |[Miniaudio](https://github.com/mackron/miniaudio)                                                                     (2   C, PD)            |Audio playback and capture library
 *audio*   |[Minimp3](https://github.com/lieff/minimp3)                                                                         **(1   C, CC0)**         |**Minimalistic MP3 decoder with sse/neon support**
 *audio*   |[MojoAL](https://github.com/icculus/mojoAL)                                                                           (1   C, ZLIB)          |Full OpenAL 1.1 implementation
 *audio*   |[Nanoalsa](https://gitlab.com/bztsrc/nanoalsa)                                                                        (1   C, MIT)           |Tiny PCM playback under Linux
