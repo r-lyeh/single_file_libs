@@ -139,6 +139,7 @@ Single-header C files with clause-less licenses are highlighted.
 *argv*    |[Optionparser](https://optionparser.sourceforge.net/)                                                                 (1 C++, MIT)           |Command-line argument parsing
 *argv*    |[Parg](https://github.com/jibsen/parg)                                                                                (2   C, PD)            |Command-line argument parsing
 *argv*    |[ProgramOptions.hxx](https://github.com/Fytch/ProgramOptions.hxx)                                                     (1 C++, MIT)           |Command-line argument parsing
+*asm*     |[Chasm](https://github.com/aqilc/chasm)                                                                               (2   C, PD)            |Runtime X64 assembler
 *audio*   |[Atomix](https://github.com/BareRose/atomix)                                                                        **(1   C, PD)**          |**Wait-free atomic sound mixer**
 *audio*   |[Aw_ima.h](https://github.com/afterwise/aw-ima/blob/master/aw-ima.h)                                                  (1   C, MIT)           |IMA-ADPCM audio decoder
 *audio*   |[Btac1c](https://github.com/cr88192/bgbtech_misc/blob/master/mini/btac1c_mini0.h)                                     (1   C, MIT)           |MS-IMA_ADPCM variant
