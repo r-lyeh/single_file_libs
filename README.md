@@ -145,13 +145,14 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Chibi-xmplay](https://github.com/reduz/chibi-xmplay)                                                                 (2   C, BSD3)          |XM module playback library
 *audio*   |[Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                                                                 (1   C, MIT)           |Library generating 8-bit waveforms of various kinds
 *audio*   |[Miniaudio](https://github.com/mackron/miniaudio)                                                                     (2   C, PD)            |Audio playback and capture library
-*audio*   |[Miniflac](https://github.com/jprjr/miniflac]                                                                       **(1   C, BSD0)**        |**FLAC decoder with a push-style API**
+*audio*   |[Miniflac](https://github.com/jprjr/miniflac)                                                                       **(1   C, BSD0)**        |**FLAC decoder with a push-style API**
 *audio*   |[Minimp3](https://github.com/lieff/minimp3)                                                                         **(1   C, CC0)**         |**Minimalistic MP3 decoder with sse/neon support**
 *audio*   |[MojoAL](https://github.com/icculus/mojoAL)                                                                           (1   C, ZLIB)          |Full OpenAL 1.1 implementation
 *audio*   |[Nanoalsa](https://gitlab.com/bztsrc/nanoalsa)                                                                        (1   C, MIT)           |Tiny PCM playback under Linux
 *audio*   |[Pocketmod](https://github.com/rombankzero/pocketmod)                                                                 (1   C, MIT)           |ProTracker MOD file renderer
 *audio*   |[Stb_hexwave](https://github.com/nothings/stb/blob/master/stb_hexwave.h)                                            **(1   C, PD)**          |**Audio waveform synthesizer**
 *audio*   |[Stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c)                                              **(1   C, PD)**          |**Decode ogg vorbis files from file/memory to float/16-bit signed output**
+*audio*   |[Tflac](https://github.com/jprjr/tflac)                                                                             **(1   C, BSD0)**        |**Freestanding FLAC encoding library in C89**
 *audio*   |[TinySoundFont](https://github.com/schellingb/TinySoundFont)                                                          (1   C, MIT)           |SoundFont2 loader & synthesizer
 *bench*   |[Picobench](https://github.com/iboB/picobench)                                                                        (1 C++, MIT)           |Microbenchmarking
 *bench*   |[Ubench.h](https://github.com/sheredom/ubench.h)                                                                    **(1   C, PD)**          |**Microbenchmarking**
