@@ -145,6 +145,7 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Chibi-xmplay](https://github.com/reduz/chibi-xmplay)                                                                 (2   C, BSD3)          |XM module playback library
 *audio*   |[Geneva](https://github.com/KrzysztofSzewczyk/Geneva)                                                                 (1   C, MIT)           |Library generating 8-bit waveforms of various kinds
 *audio*   |[Miniaudio](https://github.com/mackron/miniaudio)                                                                     (2   C, PD)            |Audio playback and capture library
+*audio*   |[Miniflac](https://github.com/jprjr/miniflac]                                                                       **(1   C, BSD0)**        |**FLAC decoder with a push-style API**
 *audio*   |[Minimp3](https://github.com/lieff/minimp3)                                                                         **(1   C, CC0)**         |**Minimalistic MP3 decoder with sse/neon support**
 *audio*   |[MojoAL](https://github.com/icculus/mojoAL)                                                                           (1   C, ZLIB)          |Full OpenAL 1.1 implementation
 *audio*   |[Nanoalsa](https://gitlab.com/bztsrc/nanoalsa)                                                                        (1   C, MIT)           |Tiny PCM playback under Linux
@@ -174,7 +175,6 @@ Single-header C files with clause-less licenses are highlighted.
 *debug*   |[Debugbreak](https://github.com/scottt/debugbreak)                                                                    (1   C, BSD)           |Programmatic debug break
 *debug*   |[Loguru](https://github.com/emilk/loguru)                                                                             (1 C++, PD)            |Flexible logging
 *debug*   |[Pempek_assert.cpp](https://github.com/gpakosz/Assert)                                                                (2 C++, WTFPL2)        |Flexible assertions
-*dev*     |[EasyTab](https://github.com/ApoorvaJ/EasyTab)                                                                      **(1   C, PD)**          |**Multi-platform tablet input**
 *dev*     |[Libue](https://github.com/houqp/libue)                                                                               (1   C, MIT)           |Helper library for Linux device hot-plug event
 *ds*      |[AArray](https://tse.gratis/aArray/)                                                                                **(1   C, PD)**          |**Arrays/strings: generic, safe**
 *ds*      |[Avl](https://github.com/etherealvisage/avl)                                                                          (2   C, PD)            |AVL tree
@@ -245,6 +245,7 @@ Single-header C files with clause-less licenses are highlighted.
 *image*   |SVG [NanoSVG](https://github.com/memononen/nanosvg)                                                                   (1   C, ZLIB)          |1-file SVG parser; 1-file SVG rasterizer
 *image*   |WEBP [Jebp](https://github.com/matanui159/jebp)                                                                     **(1   C, 0MIT)**        |**Single header WebP decoder**
 *ini*     |[Inih](https://github.com/benhoyt/inih)                                                                               (2   C, BSD)           |.ini file parser
+*input*   |[EasyTab](https://github.com/ApoorvaJ/EasyTab)                                                                      **(1   C, PD)**          |**Multi-platform tablet input**
 *json*    |[Ajson](https://github.com/lordoffox/ajson)                                                                           (1 C++, BOOST)         |JSON serialize & deserialize w/ STL support
 *json*    |[CJSON](https://github.com/DaveGamble/cJSON)                                                                          (1   C, MIT)           |JSON parser
 *json*    |[CJSON](https://sourceforge.net/projects/cjson/)                                                                      (1   C, MIT)           |JSON parser
