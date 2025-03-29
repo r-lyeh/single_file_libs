@@ -112,7 +112,7 @@ Single-header C files with clause-less licenses are highlighted.
 *2d*      |[RGL](https://github.com/ColleagueRiley/RGL)                                                                          (1   C, ZLIB)          |Simple ultra-lightweight OpenGL version abstraction based on RLGL (pipeline system)
 *2d*      |[Scalable-font2](https://gitlab.com/bztsrc/scalable-font2)                                                            (1   C, MIT)           |Scalable Font renderer + specification
 *2d*      |[Si_normalmap](https://github.com/Sir-Irk/si_normalmap)                                                             **(1   C, PD)**          |**Image to Normal Map generator**
-*2d*      |[Tigr](https://bitbucket.org/rmitton/tigr/src)                                                                        (2   C, PD)            |Quick-n-dirty window text/graphics for Windows and macOS
+*2d*      |[Tigr](https://github.com/erkkah/tigr)                                                                                (2   C, PD)            |Windowing, text and graphics for Windows, Linux and macOS
 *2d*      |[Wfc](https://github.com/krychu/wfc)                                                                                  (1   C, MIT)           |Generate image locally similar to the input image using WFC algorithm
 *3d*      |[Debug-draw](https://github.com/glampert/debug-draw)                                                                  (1 C++, PD)            |API-agnostic immediate-mode debug rendering
 *3d*      |[Lightmapper](https://github.com/ands/lightmapper#lightmapper)                                                      **(1   C, PD)**          |**Use your OpenGL renderer to offline bake lightmaps**
