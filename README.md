@@ -275,6 +275,7 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Jc_voronoi](https://github.com/JCash/voronoi)                                                                        (1   C, MIT)           |Find voronoi regions on float/double data
 *math*    |[Linmath.h](https://github.com/datenwolf/linmath.h)                                                                 **(1   C, WTFPL2)**      |**Vector library**
 *math*    |[M_math.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_math.h)                     (1   C, ZLIB)          |Math with C/OpenCL portability
+*math*    |[matrix-hpp](https://github.com/gc1905/matrix-hpp)                                                                    (1 C++, MIT)           |Matrix class container for linear algebra computations
 *math*    |[Nanoflann](https://github.com/jlblancoc/nanoflann)                                                                   (1 C++, BSD)           |Build KD trees for point clouds
 *math*    |[Nv_voronoi.h](https://www.icculus.org/~mordred/nvlib/)                                                             **(1   C, PD)**          |**Find voronoi regions on lattice w/ integer inputs**
 *math*    |[Omm](https://github.com/Hectarea1996/omm)                                                                            (1 C++, MIT)           |Template open multi-methods
