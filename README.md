@@ -154,6 +154,7 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Stb_hexwave](https://github.com/nothings/stb/blob/master/stb_hexwave.h)                                            **(1   C, PD)**          |**Audio waveform synthesizer**
 *audio*   |[Stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c)                                              **(1   C, PD)**          |**Decode ogg vorbis files from file/memory to float/16-bit signed output**
 *audio*   |[Tflac](https://github.com/jprjr/tflac)                                                                             **(1   C, BSD0)**        |**Freestanding FLAC encoding library in C89**
+*audio*   |[organya.h](https://github.com/Strultz/organya.h)                                                                   **(1   C, BSD0)**        |**Organya/OrgMaker music renderer**
 *audio*   |[TinySoundFont](https://github.com/schellingb/TinySoundFont)                                                          (1   C, MIT)           |SoundFont2 loader & synthesizer
 *bench*   |[Picobench](https://github.com/iboB/picobench)                                                                        (1 C++, MIT)           |Microbenchmarking
 *bench*   |[Ubench.h](https://github.com/sheredom/ubench.h)                                                                    **(1   C, PD)**          |**Microbenchmarking**
