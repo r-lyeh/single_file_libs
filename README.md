@@ -369,7 +369,7 @@ Single-header C files with clause-less licenses are highlighted.
 *parse*   |[Cpp-peglib](https://github.com/yhirose/cpp-peglib)                                                                   (1   C, MIT)           |PEG (Parsing Expression Grammars) library
 *parse*   |[Furi](https://github.com/iboB/furi)                                                                                  (1   C, MIT)           |URL & URI parsing
 *parse*   |[Html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)                                      (2   C, GPL)           |HTML parser (wget)
-*parse*   |[SLRE](https://github.com/cesanta/slre)                                                                               (1   C, GPL2)          |Regular expression matcher
+*parse*   |[SLRE](https://github.com/aquefir/slre)                                                                               (1   C, GPL2)          |Regular expression matcher
 *parse*   |[Stb_c_lexer](https://github.com/nothings/stb/blob/master/stb_c_lexer.h)                                            **(1   C, PD)**          |**Simplify writing parsers for C-like languages**
 *parse*   |[Tok](https://gitlab.com/bztsrc/tok)                                                                                  (1   C, MIT)           |Configurable tokenizer
 *parse*   |[Tomlplusplus](https://github.com/marzer/tomlplusplus)                                                                (1 C++, MIT)           |TOML parser and serializer
