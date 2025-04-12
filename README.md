@@ -154,7 +154,7 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Stb_hexwave](https://github.com/nothings/stb/blob/master/stb_hexwave.h)                                            **(1   C, PD)**          |**Audio waveform synthesizer**
 *audio*   |[Stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c)                                              **(1   C, PD)**          |**Decode ogg vorbis files from file/memory to float/16-bit signed output**
 *audio*   |[Tflac](https://github.com/jprjr/tflac)                                                                             **(1   C, BSD0)**        |**Freestanding FLAC encoding library in C89**
-*audio*   |[organya.h](https://github.com/Strultz/organya.h)                                                                   **(1   C, BSD0)**        |**Organya/OrgMaker music renderer**
+*audio*   |[Organya.h](https://github.com/Strultz/organya.h)                                                                   **(1   C, BSD0)**        |**Organya/OrgMaker music renderer**
 *audio*   |[TinySoundFont](https://github.com/schellingb/TinySoundFont)                                                          (1   C, MIT)           |SoundFont2 loader & synthesizer
 *bench*   |[Picobench](https://github.com/iboB/picobench)                                                                        (1 C++, MIT)           |Microbenchmarking
 *bench*   |[Ubench.h](https://github.com/sheredom/ubench.h)                                                                    **(1   C, PD)**          |**Microbenchmarking**
@@ -213,6 +213,7 @@ Single-header C files with clause-less licenses are highlighted.
 *font*    |[Stb_easy_font](https://github.com/nothings/stb/blob/master/stb_easy_font.h)                                        **(1   C, PD)**          |**Quick-and-dirty easy-to-deploy bitmap font for printing frame rate, etc**
 *font*    |[Stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h)                                          **(1   C, PD)**          |**Parse, decode, and rasterize characters from truetype fonts**
 *game*    |[Raycastlib.h](https://gitlab.com/drummyfish/raycastlib)                                                            **(1   C, CC0)**         |**Advanced raycasting rendering library, pure C99 with no dependencies, only 32bit int math**
+*game*    |[Roguelike.h](https://github.com/MichaelMackus/libroguelike)                                                          (1   C, MIT)           |Simple game library for Roguelike games: pathfinding, Dijkstra graphs, dungeon generation...
 *game*    |[Stb_connected_components](https://github.com/nothings/stb/blob/master/stb_connected_components.h)                  **(1   C, PD)**          |**Incrementally compute reachability on grids**
 *game*    |[Stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/master/stb_herringbone_wang_tile.h)                **(1   C, PD)**          |**Herringbone Wang tile map generator**
 *game*    |[Stb_tilemap_editor](https://github.com/nothings/stb/blob/master/stb_tilemap_editor.h)                              **(1   C, PD)**          |**Embeddable tilemap editor**
@@ -276,7 +277,7 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Jc_voronoi](https://github.com/JCash/voronoi)                                                                        (1   C, MIT)           |Find voronoi regions on float/double data
 *math*    |[Linmath.h](https://github.com/datenwolf/linmath.h)                                                                 **(1   C, WTFPL2)**      |**Vector library**
 *math*    |[M_math.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_math.h)                     (1   C, ZLIB)          |Math with C/OpenCL portability
-*math*    |[matrix-hpp](https://github.com/gc1905/matrix-hpp)                                                                    (1 C++, MIT)           |Matrix class container for linear algebra computations
+*math*    |[Matrix-hpp](https://github.com/gc1905/matrix-hpp)                                                                    (1 C++, MIT)           |Matrix class container for linear algebra computations
 *math*    |[Nanoflann](https://github.com/jlblancoc/nanoflann)                                                                   (1 C++, BSD)           |Build KD trees for point clouds
 *math*    |[Nv_voronoi.h](https://www.icculus.org/~mordred/nvlib/)                                                             **(1   C, PD)**          |**Find voronoi regions on lattice w/ integer inputs**
 *math*    |[Omm](https://github.com/Hectarea1996/omm)                                                                            (1 C++, MIT)           |Template open multi-methods
