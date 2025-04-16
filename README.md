@@ -182,6 +182,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[AArray](https://tse.gratis/aArray/)                                                                                **(1   C, PD)**          |**Arrays/strings: generic, safe**
 *ds*      |[Avl](https://github.com/etherealvisage/avl)                                                                          (2   C, PD)            |AVL tree
 *ds*      |[Cds_algo](https://github.com/cdwfs/algo)                                                                           **(1   C, PD)**          |**Collection of data structures (queue, stack, graph, heap...)**
+*ds*      |[Convenient Containers](https://github.com/JacksonAllan/CC)                                                           (1   C, MIT)           |Typesafe data structures (vector, list, map, set, string, etc.) with a fully generic API and no boilerplate
 *ds*      |[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)                                                            **(1   C, PD)**          |**Typesafe dynamic arrays (like std::vector) for plain C**
 *ds*      |[Dynarr](https://github.com/BareRose/dynarr)                                                                        **(1   C, PD)**          |**Dynamic array container**
 *ds*      |[DynaVar](https://github.com/ArjArav98/DynaVar)                                                                       (1 C++, GPL3)          |Object which can store any type of primitive data type
@@ -199,6 +200,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Simclist](https://mij.oltrelinux.com/devel/simclist)                                                                 (2   C, BSD)           |Linked-list
 *ds*      |[Stb_ds](https://github.com/nothings/stb/blob/master/stb_ds.h)                                                      **(1   C, PD)**          |**Typesafe dynamic array and hash tables for   C, will compile in C++**
 *ds*      |[Uthash](https://github.com/troydhanson/uthash)                                                                       (2   C, BSD)           |Several 1-header, 1-license-file libs: generic hash, list, etc
+*ds*      |[Verstable](https://github.com/JacksonAllan/Verstable)                                                                (1   C, MIT)           |High performance and typesafe generic hash table
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
