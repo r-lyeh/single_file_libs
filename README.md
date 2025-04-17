@@ -92,6 +92,7 @@ Also you might be interested in other related, but different lists:
 [zeroTolerance](https://github.com/jharler/ZeroTolerance),
 [zheaders](https://github.com/Zguy/ZHeaders),
 [**zpl**](https://github.com/zpl-c/zpl),
+[librem](htpps://github.com/3dgoose/librem),
 
 ### Main listing
 
