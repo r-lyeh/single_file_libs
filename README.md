@@ -317,6 +317,7 @@ Single-header C files with clause-less licenses are highlighted.
 *mesh*    |[Tinyply](https://github.com/ddiakopoulos/tinyply)                                                                    (2 C++, PD)            |PLY mesh file loader
 *mesh*    |[Tk_objfile](https://github.com/joeld42/tk_objfile)                                                                   (1   C, MIT)           |OBJ file loader
 *misc*    |[ASAP](https://github.com/mobius3/asap)                                                                               (1 C++, MIT)           |Library for parsing, printing, iterating and operating on dates.
+*misc*    |[ASN.1 DER](https://github.com/zzo38/superzz0/blob/trunk/asn1.c)                                                      (2   C, PD)            |Encoder/decoder for ASN.1 DER format.
 *misc*    |[CLM_LIBS](https://github.com/CarlosLunaMota/CLM_LIBS)                                                              **(1   C, PD)**          |**Diverse utilities**
 *misc*    |[Color-Toolkit](https://github.com/gerbenvoshol/Color-Toolkit)                                                        (1   C, GPL2)          |Color conversion utils (RGB, XYZ, Lab, CIE76, CIE94 and CIEDE200)
 *misc*    |[Cpp-generators](https://github.com/c-smile/cpp-generators)                                                           (1 C++, BSD)           |Generators in C++
