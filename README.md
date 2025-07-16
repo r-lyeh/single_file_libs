@@ -475,7 +475,7 @@ Entries in this appendix either do not offer a single-header file directly, or t
 |tag      | library | description
 |:-------:|:---------|:-----------------
 *db*      |[Sqlite](https://www.sqlite.org/amalgamation.html)                           (2   C, PD)     |Self-contained, SQL database engine.
-*engine*  |[FWK1](https://github.com/fwk3d/v1)                                        **(1   C, PD)**   |**3D game framework in C**
+*engine*  |[FWK1](https://github.com/r-lyeh/v1/blob/master/2024/2024.10/engine/joint.h) **(1   C, PD)** |**3D game framework in C**
 *file*    |[DTW](https://github.com/OUIsolutions/DoTheWorld)                            (1   C, MIT)    |File and folder utilities
 *net*     |[CWebStudio](https://github.com/OUIsolutions/CWebStudio)                     (1   C, MIT)    |WebServer with embedded JSON/HTML utilities
 *pack*    |[Zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs)     (?   C, BSD3)   |Fast real-time compression algorithm
