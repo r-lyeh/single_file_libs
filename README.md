@@ -121,6 +121,7 @@ Single-header C files with clause-less licenses are highlighted.
 *3d*      |[Seamoptimizer](https://github.com/ands/seamoptimizer)                                                              **(1   C, PD)**          |**Modify lightmap data to hide seams**
 *3d*      |[Simple OpenGL Loader](https://github.com/tsherif/simple-opengl-loader)                                               (1   C, MIT)           |Extensible, cross-platform OpenGL loader
 *3d*      |[Small3dlib](https://gitlab.com/drummyfish/small3dlib)                                                              **(1   C, CC0)**         |**Fast and portable software renderer**
+*3d*      |[ZLight](https://github.com/nichitaciuprin/ZLight)                                                                    (1   C, ZLIB)          |Software rendering with depth, light and shadow
 *3d*      |[Stb_voxel_render](https://github.com/nothings/stb/blob/master/stb_voxel_render.h)                                  **(1   C, PD)**          |**Minecraft-esque voxel rendering "engine" with many more features**
 *3d*      |[Swarmz](https://github.com/Cultrarius/Swarmz)                                                                        (1 C++, PD)            |Swarming/flocking algorithm
 *3d*      |[Tinygizmo](https://github.com/ddiakopoulos/tinygizmo)                                                                (2 C++, PD)            |Gizmo objects for interactively editing 3d transformations
