@@ -395,6 +395,7 @@ Single-header C files with clause-less licenses are highlighted.
 *script*  |[Minilua](https://github.com/edubart/minilua)                                                                         (1   C, MIT)           |Single-file port of Lua scripting language
 *script*  |[MY-BASIC](https://github.com/paladin-t/my_basic/)                                                                    (2   C, MIT)           |Interpreter for a BASIC dialect scripting language
 *script*  |[Picol](https://chiselapp.com/user/dbohdan/repository/picol/)                                                         (1   C, BSD)           |Interpreter for a Tcl-like scripting language
+*script*  |[PocketPy](https://github.com/pocketpy/pocketpy/)                                                                     (2   C, MIT)           |Portable Python 3.x Interpreter in Modern C for Game Scripting
 *script*  |[S7](https://ccrma.stanford.edu/software/snd/snd/s7.html)                                                             (2   C, BSD)           |Interpreter for a subset of Scheme (R5RS/R7RS)
 *script*  |[Xpl](https://github.com/paladin-t/xpl)                                                                             **(1   C, WTFPL2)**      |**X Programming Language**
 *serial*  |[Archive](https://github.com/voidah/archive)                                                                          (1 C++, PD)            |Binary serialize & deserlize w/ STL support
