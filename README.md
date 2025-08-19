@@ -182,7 +182,6 @@ Single-header C files with clause-less licenses are highlighted.
 *dev*     |[Libue](https://github.com/houqp/libue)                                                                               (1   C, MIT)           |Helper library for Linux device hot-plug event
 *ds*      |[AArray](https://tse.gratis/aArray/)                                                                                **(1   C, PD)**          |**Arrays/strings: generic, safe**
 *ds*      |[Avl](https://github.com/etherealvisage/avl)                                                                          (2   C, PD)            |AVL tree
-*ds*      |[Cds_algo](https://github.com/cdwfs/algo)                                                                           **(1   C, PD)**          |**Collection of data structures (queue, stack, graph, heap...)**
 *ds*      |[Convenient Containers](https://github.com/JacksonAllan/CC)                                                           (1   C, MIT)           |Typesafe data structures (vector, list, map, set, string, etc.) with a fully generic API and no boilerplate
 *ds*      |[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)                                                            **(1   C, PD)**          |**Typesafe dynamic arrays (like std::vector) for plain C**
 *ds*      |[Dynarr](https://github.com/BareRose/dynarr)                                                                        **(1   C, PD)**          |**Dynamic array container**
@@ -220,6 +219,7 @@ Single-header C files with clause-less licenses are highlighted.
 *game*    |[Stb_connected_components](https://github.com/nothings/stb/blob/master/stb_connected_components.h)                  **(1   C, PD)**          |**Incrementally compute reachability on grids**
 *game*    |[Stb_herringbone_wang_tile](https://github.com/nothings/stb/blob/master/stb_herringbone_wang_tile.h)                **(1   C, PD)**          |**Herringbone Wang tile map generator**
 *game*    |[Stb_tilemap_editor](https://github.com/nothings/stb/blob/master/stb_tilemap_editor.h)                              **(1   C, PD)**          |**Embeddable tilemap editor**
+*gpu*     |[Cds_gpubuf](https://codeberg.org/cdwfs/cds_gpubuf)                                                                 **(1   C, PD)**          |**Compress/interleave arrays from/into GPU buffers.**
 *hash*    |[Hash.c](https://github.com/zzo38/freeheromesh/blob/trunk/hash.c)                                                     (2   C, PD)            |SHA1/SHA3/MD5 hashes
 *hash*    |[Lonesha256](https://github.com/BareRose/lonesha256)                                                                **(1   C, PD)**          |**SHA256 implementation**
 *hash*    |[PicoSHA2](https://github.com/okdshin/PicoSHA2)                                                                       (1 C++, MIT)           |SHA256 implementation
@@ -268,7 +268,7 @@ Single-header C files with clause-less licenses are highlighted.
 *logic*   |[FFSM2](https://github.com/andrew-gresyk/FFSM2/blob/master/include/ffsm2/machine.hpp)                                 (1 C++, MIT)           |Flat FSM
 *logic*   |[HFSM2](https://github.com/andrew-gresyk/HFSM2/blob/master/include/hfsm2/machine.hpp)                                 (1 C++, MIT)           |Hierarchical FSM
 *math*    |[Amoeba](https://github.com/starwing/amoeba)                                                                          (1   C, MIT)           |Constraint solver (Cassowary) w/Lua binding
-*math*    |[Cds_spline](https://github.com/cdwfs/cds_spline/blob/master/cds_spline.h)                                          **(1   C, PD)**          |**Spline utils**
+*math*    |[Cds_spline](https://codeberg.org/cdwfs/cds_spline)                                                                 **(1   C, PD)**          |**Spline utils**
 *math*    |[Ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)                                                (1   C, MIT)           |A single-header library for parsing and evaluation of arithmetic expressions
 *math*    |[Clipper](https://www.angusj.com/delphi/clipper.php)                                                                  (2 C++, BOOST)         |Line & polygon clipping & offsetting
 *math*    |[Delaunay](https://github.com/BrunoLevy/geogram.psm.Delaunay)                                                         (2 C++, BSD3)          |2D and 3D Delaunay triangulation
@@ -425,8 +425,8 @@ Single-header C files with clause-less licenses are highlighted.
 *sys*     |[Rang](https://github.com/agauniyal/rang)                                                                             (1 C++, PD)            |Cross-platform colored console text
 *sys*     |[Xproc](https://github.com/time-killer-games/xproc)                                                                   (2 C++, MIT)           |Foreign Process Information
 *thread*  |[Bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)                                                              (1   C, MIT)           |Cross-platform lock free fixed memory hierarchical work scheduler
-*thread*  |[Cds_job](https://github.com/cdwfs/cds_job)                                                                           (1 C++, PD)            |Lock-free job queue
-*thread*  |[Cds_sync](https://github.com/cdwfs/cds_sync)                                                                       **(1   C, PD)**          |**Collection of synchronization primitives**
+*thread*  |[Cds_job](https://codeberg.org/cdwfs/cds_job)                                                                           (1 C++, PD)            |Lock-free job queue
+*thread*  |[Cds_sync](https://codeberg.org/cdwfs/cds_sync)                                                                       **(1   C, PD)**          |**Collection of synchronization primitives**
 *thread*  |[TinyCThread](https://tinycthread.github.io/)                                                                         (2   C, ZLIB)          |Cross-platform implementation of the C11 Threads API
 *thread*  |[TinyThread++](https://tinythreadpp.bitsnbites.eu/)                                                                   (2 C++, ZLIB)          |Cross-platform implementation of the C++11 Threads API
 *ui*      |[Clay](https://github.com/nicbarker/clay)                                                                             (1   C, ZLIB)          |High performance 2D UI layout library
