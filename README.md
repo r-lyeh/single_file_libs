@@ -239,6 +239,7 @@ Single-header C files with clause-less licenses are highlighted.
 *image*   |GIF [Gif.h](https://github.com/ginsweater/gif-h)                                                                      (1 C++, PD)            |Animated GIF writer (can only include once)
 *image*   |GIF [Gif_load](https://github.com/hidefromkgb/gif_load)                                                             **(1   C, PD)**          |**(animated) GIF reader**
 *image*   |GIF [Jo_gif.cpp](https://www.jonolick.com/home/gif-writer)                                                            (1 C++, PD)            |Animated GIF writer (CPP file can also be used as H file)
+*image*   |GIF [msf_gif.h](https://github.com/notnullnotvoid/msf_gif)                                                          **(1   C, PD)**          |**Animated GIF writer**
 *image*   |JPG [Jpeg-compressor](https://github.com/richgel999/jpeg-compressor)                                                  (2 C++, PD)            |2-file JPEG compress, 2-file JPEG decompress
 *image*   |JPG [NanoJPEG](https://keyj.emphy.de/nanojpeg/)                                                                       (1   C, MIT)           |JPEG decoder
 *image*   |JPG [Tiny_jpeg.h](https://github.com/serge-rgb/TinyJPEG/)                                                           **(1   C, PD)**          |**JPEG encoder**
