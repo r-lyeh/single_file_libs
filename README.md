@@ -200,6 +200,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Simclist](https://mij.oltrelinux.com/devel/simclist)                                                                 (2   C, BSD)           |Linked-list
 *ds*      |[Stb_ds](https://github.com/nothings/stb/blob/master/stb_ds.h)                                                      **(1   C, PD)**          |**Typesafe dynamic array and hash tables for   C, will compile in C++**
 *ds*      |[Uthash](https://github.com/troydhanson/uthash)                                                                       (2   C, BSD)           |Several 1-header, 1-license-file libs: generic hash, list, etc
+*ds*      |[Vector](https://github.com/RolandMarchand/vector.h)                                                                  (1   C, BSD0)          |Type-safe dynamic arrays
 *ds*      |[Verstable](https://github.com/JacksonAllan/Verstable)                                                                (1   C, MIT)           |High performance and typesafe generic hash table
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
