@@ -187,6 +187,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Dynarr](https://github.com/BareRose/dynarr)                                                                        **(1   C, PD)**          |**Dynamic array container**
 *ds*      |[DynaVar](https://github.com/ArjArav98/DynaVar)                                                                       (1 C++, GPL3)          |Object which can store any type of primitive data type
 *ds*      |[Fifo_declare.h](https://github.com/buserror/simavr/blob/master/simavr/sim/fifo_declare.h)                            (1   C, LGPL2)         |Thread/core safe FIFO
+*ds*      |[Hashmap](https://github.com/RolandMarchand/hashmap.h)                                                                (1   C, BSD0)          |Type-safe hashmaps
 *ds*      |[Itlib](https://github.com/iboB/itlib)                                                                                (1 C++, MIT)           |Several C++11 standard-contaner-like libraries and helpers
 *ds*      |[Jhr_skip_list](https://github.com/Garfield1002/jhr_skip_list)                                                        (1 C++, PD)            |Skip Lists
 *ds*      |[Jrsl](https://github.com/Garfield1002/jrsl)                                                                        **(1   C, PD)**          |**Skip Lists**
