@@ -252,7 +252,8 @@ Single-header C files with clause-less licenses are highlighted.
 *image*   |PNG [TinyPngOutput](https://www.nayuki.io/page/tiny-png-output)                                                       (2   C, LGPLv3)        |PNG writer 
 *image*   |PNM [PNM](https://github.com/dmilos/PNM)                                                                              (1 C++, APACHE2)       |PBM, PGM and PPM reader and writer 
 *image*   |SVG [NanoSVG](https://github.com/memononen/nanosvg)                                                                   (1   C, ZLIB)          |1-file SVG parser; 1-file SVG rasterizer
-*image*   |WEBP [Jebp](https://github.com/matanui159/jebp)                                                                     **(1   C, 0MIT)**        |**Single header WebP decoder**
+*image*   |WEBP [Jebp](https://github.com/matanui159/jebp)                                                                     **(1   C, 0MIT)**        |**Single header WebP decoder (only supports lossless images)**
+*image*   |WEBP [tiny-webp](https://github.com/justus2510/tiny-webp)                                                             (1   C, BSD3)          |Single header WebP decoder
 *ini*     |[Inih](https://github.com/benhoyt/inih)                                                                               (2   C, BSD)           |.ini file parser
 *input*   |[EasyTab](https://github.com/ApoorvaJ/EasyTab)                                                                      **(1   C, PD)**          |**Multi-platform tablet input**
 *json*    |[Ajson](https://github.com/lordoffox/ajson)                                                                           (1 C++, BOOST)         |JSON serialize & deserialize w/ STL support
