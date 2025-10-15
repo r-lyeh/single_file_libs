@@ -302,6 +302,7 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Simple_linear_regression](https://github.com/torkeldanielsson/simple_linear_regression)                              (1   C, MIT)           |Simple linear regression
 *math*    |[Simrank.hpp](https://github.com/roukaour/simrank)                                                                    (2 C++, MIT)           |SimRank graph similarity algorithm
 *math*    |[Sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)                                                     **(1   C, PD)**          |**Sobol & stratified sampling sequences**
+*math*    |[smath](https://github.com/slendidev/smath)                                                                           (1 C++, APACHE2)       |Single-file linear algebra math library for C++23
 *math*    |[Statistics-Tool-Box](https://github.com/gerbenvoshol/Statistics-Tool-Box)                                          **(1   C, PD)**          |**Statistical functions**
 *math*    |[Stb_divide](https://github.com/nothings/stb/blob/master/stb_divide.h)                                              **(1   C, PD)**          |**More useful 32-bit modulus**
 *math*    |[SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git)                                            (1 C++, MIT)           |Summed-Area Table generation and sum/avg queries
