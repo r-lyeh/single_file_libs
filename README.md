@@ -203,6 +203,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Uthash](https://github.com/troydhanson/uthash)                                                                       (2   C, BSD)           |Several 1-header, 1-license-file libs: generic hash, list, etc
 *ds*      |[Vector](https://github.com/RolandMarchand/vector.h)                                                                  (1   C, BSD0)          |Type-safe dynamic arrays
 *ds*      |[Verstable](https://github.com/JacksonAllan/Verstable)                                                                (1   C, MIT)           |High performance and typesafe generic hash table
+*ds*      |[Yar](https://github.com/segcore/yar)                                                                                 (1   C, PD)            |Convenient type-safe dynamic arrays
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
