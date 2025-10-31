@@ -261,6 +261,7 @@ Single-header C files with clause-less licenses are highlighted.
 *json*    |[Ajson](https://github.com/lordoffox/ajson)                                                                           (1 C++, BOOST)         |JSON serialize & deserialize w/ STL support
 *json*    |[CJSON](https://github.com/DaveGamble/cJSON)                                                                          (1   C, MIT)           |JSON parser
 *json*    |[CJSON](https://sourceforge.net/projects/cjson/)                                                                      (1   C, MIT)           |JSON parser
+*json*    |[csonpath](https://github.com/outscale/csonpath)                                                                      (1   C, BSD3)          |JsonPath implementation
 *json*    |[Jsmn](https://github.com/zserge/jsmn)                                                                                (1   C, MIT)           |Minimalistic JSON parser
 *json*    |[Json-build](https://github.com/lcsmuller/json-build)                                                                 (1   C, MIT)           |JSON serializer
 *json*    |[Json.h](https://github.com/sheredom/json.h)                                                                        **(1   C, PD)**          |**JSON parser**
