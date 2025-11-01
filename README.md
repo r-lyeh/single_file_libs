@@ -184,6 +184,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Avl](https://github.com/etherealvisage/avl)                                                                          (2   C, PD)            |AVL tree
 *ds*      |[Convenient Containers](https://github.com/JacksonAllan/CC)                                                           (1   C, MIT)           |Typesafe data structures (vector, list, map, set, string, etc.) with a fully generic API and no boilerplate
 *ds*      |[DG_dynarr.h](https://github.com/DanielGibson/Snippets/)                                                            **(1   C, PD)**          |**Typesafe dynamic arrays (like std::vector) for plain C**
+*ds*      |[stb_vector.h](https://github.com/haseeb-heaven/stb_vector)                                                         **(1   C, MIT)**          |**Lightweight typesafe dynamic arrays (vector) for C/C++**
 *ds*      |[Dynarr](https://github.com/BareRose/dynarr)                                                                        **(1   C, PD)**          |**Dynamic array container**
 *ds*      |[DynaVar](https://github.com/ArjArav98/DynaVar)                                                                       (1 C++, GPL3)          |Object which can store any type of primitive data type
 *ds*      |[Fifo_declare.h](https://github.com/buserror/simavr/blob/master/simavr/sim/fifo_declare.h)                            (1   C, LGPL2)         |Thread/core safe FIFO
