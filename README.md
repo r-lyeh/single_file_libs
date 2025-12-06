@@ -121,12 +121,12 @@ Single-header C files with clause-less licenses are highlighted.
 *3d*      |[Seamoptimizer](https://github.com/ands/seamoptimizer)                                                              **(1   C, PD)**          |**Modify lightmap data to hide seams**
 *3d*      |[Simple OpenGL Loader](https://github.com/tsherif/simple-opengl-loader)                                               (1   C, MIT)           |Extensible, cross-platform OpenGL loader
 *3d*      |[Small3dlib](https://gitlab.com/drummyfish/small3dlib)                                                              **(1   C, CC0)**         |**Fast and portable software renderer**
-*3d*      |[ZLight](https://github.com/nichitaciuprin/ZLight)                                                                    (1   C, ZLIB)          |Software rendering with depth, light and shadow
 *3d*      |[Stb_voxel_render](https://github.com/nothings/stb/blob/master/stb_voxel_render.h)                                  **(1   C, PD)**          |**Minecraft-esque voxel rendering "engine" with many more features**
 *3d*      |[Swarmz](https://github.com/Cultrarius/Swarmz)                                                                        (1 C++, PD)            |Swarming/flocking algorithm
 *3d*      |[Tinygizmo](https://github.com/ddiakopoulos/tinygizmo)                                                                (2 C++, PD)            |Gizmo objects for interactively editing 3d transformations
 *3d*      |[Vertex Cache Optimizer](https://github.com/Sigkill79/sts)                                                          **(1   C, PD)**          |**Vertex cache optimization of meshes**
 *3d*      |[Vulkan Memory Allocator](https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator)                          (1   C, MIT)           |Memory allocator for Vulkan
+*3d*      |[ZLight](https://github.com/nichitaciuprin/ZLight)                                                                    (1   C, ZLIB)          |Software rendering with depth, light and shadow
 *ai*      |[Genann](https://github.com/codeplea/genann)                                                                          (2   C, ZLIB)          |Simple neural networks (ANN)
 *ai*      |[KANN](https://github.com/attractivechaos/kann)                                                                       (2   C, MIT)           |Automatic differentiation   (2 files)
 *app*     |[RGFW](https://github.com/ColleagueRiley/RGFW)                                                                        (1   C, ZLIB)          |A multi-platform single-header user-friendly GUI framework as an alternative to GLFW
@@ -151,11 +151,11 @@ Single-header C files with clause-less licenses are highlighted.
 *audio*   |[Minimp3](https://github.com/lieff/minimp3)                                                                         **(1   C, CC0)**         |**Minimalistic MP3 decoder with sse/neon support**
 *audio*   |[MojoAL](https://github.com/icculus/mojoAL)                                                                           (1   C, ZLIB)          |Full OpenAL 1.1 implementation
 *audio*   |[Nanoalsa](https://gitlab.com/bztsrc/nanoalsa)                                                                        (1   C, MIT)           |Tiny PCM playback under Linux
+*audio*   |[Organya.h](https://github.com/Strultz/organya.h)                                                                   **(1   C, BSD0)**        |**Organya/OrgMaker music renderer**
 *audio*   |[Pocketmod](https://github.com/rombankzero/pocketmod)                                                                 (1   C, MIT)           |ProTracker MOD file renderer
 *audio*   |[Stb_hexwave](https://github.com/nothings/stb/blob/master/stb_hexwave.h)                                            **(1   C, PD)**          |**Audio waveform synthesizer**
 *audio*   |[Stb_vorbis](https://github.com/nothings/stb/blob/master/stb_vorbis.c)                                              **(1   C, PD)**          |**Decode ogg vorbis files from file/memory to float/16-bit signed output**
 *audio*   |[Tflac](https://github.com/jprjr/tflac)                                                                             **(1   C, BSD0)**        |**Freestanding FLAC encoding library in C89**
-*audio*   |[Organya.h](https://github.com/Strultz/organya.h)                                                                   **(1   C, BSD0)**        |**Organya/OrgMaker music renderer**
 *audio*   |[TinySoundFont](https://github.com/schellingb/TinySoundFont)                                                          (1   C, MIT)           |SoundFont2 loader & synthesizer
 *bench*   |[Picobench](https://github.com/iboB/picobench)                                                                        (1 C++, MIT)           |Microbenchmarking
 *bench*   |[Ubench.h](https://github.com/sheredom/ubench.h)                                                                    **(1   C, PD)**          |**Microbenchmarking**
@@ -303,8 +303,8 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[ShaderFastLibs](https://github.com/michaldrobot/ShaderFastLibs)                                                      (1 C++, MIT)           |(also HLSL) Approximate transcendental functions optimized for shaders (esp. GCN)
 *math*    |[Simple_linear_regression](https://github.com/torkeldanielsson/simple_linear_regression)                              (1   C, MIT)           |Simple linear regression
 *math*    |[Simrank.hpp](https://github.com/roukaour/simrank)                                                                    (2 C++, MIT)           |SimRank graph similarity algorithm
-*math*    |[Sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)                                                     **(1   C, PD)**          |**Sobol & stratified sampling sequences**
 *math*    |[smath](https://github.com/slendidev/smath)                                                                           (1 C++, APACHE2)       |Linear algebra math library (C++23)
+*math*    |[Sobol.h](https://github.com/Marc-B-Reynolds/Stand-alone-junk/)                                                     **(1   C, PD)**          |**Sobol & stratified sampling sequences**
 *math*    |[Statistics-Tool-Box](https://github.com/gerbenvoshol/Statistics-Tool-Box)                                          **(1   C, PD)**          |**Statistical functions**
 *math*    |[Stb_divide](https://github.com/nothings/stb/blob/master/stb_divide.h)                                              **(1   C, PD)**          |**More useful 32-bit modulus**
 *math*    |[SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git)                                            (1 C++, MIT)           |Summed-Area Table generation and sum/avg queries
@@ -368,6 +368,7 @@ Single-header C files with clause-less licenses are highlighted.
 *net*     |[Yocto](https://github.com/tom-seddon/yhs)                                                                            (2   C, PD)            |Non-production-use HTTP server
 *net*     |[Zed_net](https://github.com/Smilex/zed_net)                                                                        **(1   C, PD)**          |**Cross-platform socket wrapper**
 *net*     |[Znet](https://github.com/starwing/znet)                                                                              (1   C, MIT)           |Cross-platform networking w/ Lua binding
+*nn*      |[Qmtik](https://github.com/shinymonitor/qmtik)                                                                        (1   C, MIT)           |Quantized Model Training and Inference Kit
 *pack*    |[Dmc_unrar](https://github.com/DrMcCoy/dmc_unrar)                                                                     (1   C, GPL2)          |RAR file decompression
 *pack*    |[Fastlz](https://code.google.com/archive/p/fastlz/source/default/source)                                              (2   C, MIT)           |Fast but larger LZ compression
 *pack*    |[Lz4](https://github.com/lz4/lz4)                                                                                     (2   C, BSD)           |Fast but larger LZ compression
