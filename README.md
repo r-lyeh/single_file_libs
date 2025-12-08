@@ -278,6 +278,7 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)                                                (1   C, MIT)           |A single-header library for parsing and evaluation of arithmetic expressions
 *math*    |[Clipper](https://www.angusj.com/delphi/clipper.php)                                                                  (2 C++, BOOST)         |Line & polygon clipping & offsetting
 *math*    |[Delaunay](https://github.com/BrunoLevy/geogram.psm.Delaunay)                                                         (2 C++, BSD3)          |2D and 3D Delaunay triangulation
+*math*    |[Delaunay (Constrained)](https://github.com/raylee9919/cdt)                                                         **(1   C, PD)**          |**2D Constrained Delaunay Triangulation**
 *math*    |[Df](https://github.com/983/df)                                                                                     **(1   C, PD)**          |**Find voronoi region in linear time of size of lattice**
 *math*    |[Dvector](https://github.com/BareRose/dvector)                                                                      **(1   C, PD)**          |**2D/3D vector/quaternion/matrix math library**
 *math*    |[ExprTk](https://www.partow.net/programming/exprtk/index.html)                                                        (1 C++, MIT)           |Runtime mathematical expression parser and evaluation engine.
