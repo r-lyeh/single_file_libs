@@ -381,6 +381,7 @@ Single-header C files with clause-less licenses are highlighted.
 *pack*    |[Stb_dxt](https://github.com/nothings/stb/blob/master/stb_dxt.h)                                                    **(1   C, PD)**          |**Real-time DXT compressor**
 *parse*   |[Cmp](https://github.com/camgunz/cmp)                                                                                 (2   C, MIT)           |MessagePack parser and serializer
 *parse*   |[Cpp-peglib](https://github.com/yhirose/cpp-peglib)                                                                   (1   C, MIT)           |PEG (Parsing Expression Grammars) library
+*parse*   |[FlexiC](https://github.com/leximayfield/flexic)                                                                      (2   C, ZLIB)          |Google FlexBuffer parser and writer
 *parse*   |[Furi](https://github.com/iboB/furi)                                                                                  (1   C, MIT)           |URL & URI parsing
 *parse*   |[Html-parse.c](https://git.savannah.gnu.org/cgit/wget.git/tree/src/html-parse.c)                                      (2   C, GPL)           |HTML parser (wget)
 *parse*   |[SLRE](https://github.com/aquefir/slre)                                                                               (1   C, GPL2)          |Regular expression matcher
