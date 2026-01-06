@@ -273,6 +273,7 @@ Single-header C files with clause-less licenses are highlighted.
 *json*    |[Sjson](https://github.com/septag/sjson)                                                                              (1   C, BSD2)          |JSON encode/decoder
 *logic*   |[FFSM2](https://github.com/andrew-gresyk/FFSM2/blob/master/include/ffsm2/machine.hpp)                                 (1 C++, MIT)           |Flat FSM
 *logic*   |[HFSM2](https://github.com/andrew-gresyk/HFSM2/blob/master/include/hfsm2/machine.hpp)                                 (1 C++, MIT)           |Hierarchical FSM
+*math*    |[Aint](https://github.com/TealEgg/aint)                                                                             **(1   C, PD)**          |Single-header C99 library for large integers
 *math*    |[Amoeba](https://github.com/starwing/amoeba)                                                                          (1   C, MIT)           |Constraint solver (Cassowary) w/Lua binding
 *math*    |[Cds_spline](https://codeberg.org/cdwfs/cds_spline)                                                                 **(1   C, PD)**          |**Spline utils**
 *math*    |[Ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)                                                (1   C, MIT)           |A single-header library for parsing and evaluation of arithmetic expressions
