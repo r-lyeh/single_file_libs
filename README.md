@@ -229,6 +229,7 @@ Single-header C files with clause-less licenses are highlighted.
 *hash*    |[XxHash](https://github.com/Cyan4973/xxHash)                                                                          (2   C, BSD)           |Fast hash function
 *image*   |[Bitmap](https://github.com/ArashPartow/bitmap)                                                                       (1 C++, MIT)           |Bitmap decoder and utilities
 *image*   |[Cro_mipmap.h](https://github.com/thebeast33/cro_lib)                                                               **(1   C, PD)**          |**Average, min, max mipmap generators**
+*image*   |[FlatCV](https://github.com/ad-si/FlatCV)                                                                             (2   C, ISC)           |Image processing and computer vision library
 *image*   |[Framepacker](https://github.com/paladin-t/framepacker)                                                               (1 C++, MIT)           |Texture bin packing algorithm
 *image*   |[Jo_sift](https://www.jonolick.com/home/scale-invariant-feature-transform-sift-single-file-library)                 **(1   C, PD)**          |**Image feature detection and matching**
 *image*   |[Stb_image](https://github.com/nothings/stb/blob/master/stb_image.h)                                                **(1   C, PD)**          |**Image loading/decoding from file/memory: JPG, PNG, TGA, BMP, PSD, GIF, HDR, PIC**
