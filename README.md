@@ -349,6 +349,7 @@ Single-header C files with clause-less licenses are highlighted.
 *misc*    |[Stb_include](https://github.com/nothings/stb/blob/master/stb_include.h)                                            **(1   C, PD)**          |**Implement recursive #include support, particularly for GLSL**
 *misc*    |[Stmr](https://github.com/wooorm/stmr.c)                                                                              (2   C, MIT)           |Extract English word stems
 *misc*    |[X.h](https://github.com/Neur1n/x.h)                                                                                  (1   C, MULAN2)        |Cross-platform C/C++ utilities
+"misc"    |[TinyRISCV64](https://github.com/neilstephens/TinyRISCV64.git)                                                        (1 C++, MIT)           |RISC-V RV64IM Virtual Machine
 *nav*     |[M_path_finding.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_path_finding.h)     (1   C, ZLIB)          |Floodfill-based path finding
 *nav*     |[Micropather](https://github.com/leethomason/MicroPather)                                                             (2 C++, ZLIB)          |Pathfinding with A\*
 *net*     |[Civetweb](https://github.com/civetweb/civetweb)                                                                      (2   C, MIT)           |HTTP server, fork of Mongoose
