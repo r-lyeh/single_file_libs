@@ -432,6 +432,7 @@ Single-header C files with clause-less licenses are highlighted.
 *string*  |[Utf8](https://github.com/sheredom/utf8.h)                                                                          **(1   C, PD)**          |**UTF-8 string library**
 *svg*     |[SimpleSVG](https://github.com/adishavit/simple-svg)                                                                  (1 C++, BSD3)          |Easy to use SVG library
 *sys*     |[Doops](https://github.com/eduardsui/doops)                                                                         **(1   C, PD)**          |**Event loop library**
+*sys*     |[Dotenv](https://github.com/Vesteria-Coding/dotenv)                                                                   (1 C++, Apache2)       |Lightweight .env File Loader Library
 *sys*     |[Endianness.h](https://github.com/rofl0r/endianness.h)                                                              **(1   C, PD)**          |**Endianness conversion and detection**
 *sys*     |[JArgsParser](https://github.com/ZhengqiaoWang/JArgsParser)                                                           (1 C++, MIT)           |Arguments parser
 *sys*     |[Openmodal](https://gitlab.com/bztsrc/openmodal)                                                                      (1   C, MIT)           |Native file modals
