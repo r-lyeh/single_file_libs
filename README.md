@@ -212,6 +212,7 @@ Single-header C files with clause-less licenses are highlighted.
 *file*    |[Miniphysfs](https://github.com/edubart/miniphysfs)                                                                   (1   C, ZLIB)          |Single-file port of PhysFS, a fs/zip abstraction
 *file*    |[Tfile](https://github.com/rec/tfile)                                                                                 (1 C++, MIT)           |FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
 *file*    |[TinyDir](https://github.com/cxong/tinydir)                                                                           (1   C, BSD)           |Cross-platform directory reading (Win/POSIX/MinGW)
+*file*    |[VeloxFS](https://github.com/Partakithware/VeloxFS)                                                                 **(1   C, PD)**          |Single-header C99 filesystem for embedded, game assets, or persistent binary storage
 *file*    |[Whereami](https://github.com/gpakosz/whereami)                                                                       (2   C, WTFPL2)        |Get path/filename of executable or module
 *font*    |[Blit-fonts](https://github.com/azmr/blit-fonts)                                                                      (1   C, ISC)           |Bitmap font blitters
 *font*    |[Ssfn.h](https://gitlab.com/bztsrc/scalable-font)                                                                     (1   C, MIT)           |Scalable/bitmap/pixmap font renderer
