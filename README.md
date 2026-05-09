@@ -273,6 +273,8 @@ Single-header C files with clause-less licenses are highlighted.
 *json*    |[Parson](https://github.com/kgabis/parson)                                                                            (2   C, MIT)           |JSON parser and serializer
 *json*    |[PicoJSON](https://github.com/kazuho/picojson)                                                                        (1 C++, BSD)           |JSON parse/serializer
 *json*    |[Sjson](https://github.com/septag/sjson)                                                                              (1   C, BSD2)          |JSON encode/decoder
+*log*     |[log.c](https://github.com/rxi/log.c)                                                                                 (2   C, MIT)           |Extremely small (~150 LoC) logging library
+*log*     |[Microlog](https://github.com/an-dr/microlog)                                                                         (2   C, MIT)           |Extensible and configurable logging library
 *logic*   |[FFSM2](https://github.com/andrew-gresyk/FFSM2/blob/master/include/ffsm2/machine.hpp)                                 (1 C++, MIT)           |Flat FSM
 *logic*   |[HFSM2](https://github.com/andrew-gresyk/HFSM2/blob/master/include/hfsm2/machine.hpp)                                 (1 C++, MIT)           |Hierarchical FSM
 *math*    |[Aint](https://github.com/TealEgg/aint)                                                                             **(1   C, PD)**          |Single-header C99 library for large integers
