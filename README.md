@@ -205,6 +205,7 @@ Single-header C files with clause-less licenses are highlighted.
 *ds*      |[Vector](https://github.com/RolandMarchand/vector.h)                                                                  (1   C, BSD0)          |Type-safe dynamic arrays
 *ds*      |[Verstable](https://github.com/JacksonAllan/Verstable)                                                                (1   C, MIT)           |High performance and typesafe generic hash table
 *ds*      |[Yar](https://github.com/segcore/yar)                                                                               **(1   C, PD)**          |**Type-safe dynamic arrays in C**
+*ds*      |[Splay-tree](https://github.com/willemt/splay-tree)                                                                    (2   C, BSD)           |Splay tree ADT in C
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
@@ -228,6 +229,7 @@ Single-header C files with clause-less licenses are highlighted.
 *hash*    |[Hash.c](https://github.com/zzo38/freeheromesh/blob/trunk/hash.c)                                                     (2   C, PD)            |SHA1/SHA3/MD5 hashes
 *hash*    |[Lonesha256](https://github.com/BareRose/lonesha256)                                                                **(1   C, PD)**          |**SHA256 implementation**
 *hash*    |[PicoSHA2](https://github.com/okdshin/PicoSHA2)                                                                       (1 C++, MIT)           |SHA256 implementation
+*hash*    |[Wyhash](https://github.com/wangyi-fudan/wyhash)                                                                    **(1   C, PD)**          |**Fastest 64-bit hash function, PRNG and hash map**
 *hash*    |[XxHash](https://github.com/Cyan4973/xxHash)                                                                          (2   C, BSD)           |Fast hash function
 *image*   |[Bitmap](https://github.com/ArashPartow/bitmap)                                                                       (1 C++, MIT)           |Bitmap decoder and utilities
 *image*   |[Cro_mipmap.h](https://github.com/thebeast33/cro_lib)                                                               **(1   C, PD)**          |**Average, min, max mipmap generators**
@@ -259,6 +261,7 @@ Single-header C files with clause-less licenses are highlighted.
 *image*   |SVG [NanoSVG](https://github.com/memononen/nanosvg)                                                                   (1   C, ZLIB)          |1-file SVG parser; 1-file SVG rasterizer
 *image*   |WEBP [Jebp](https://github.com/matanui159/jebp)                                                                     **(1   C, 0MIT)**        |**Single header WebP decoder (only supports lossless images)**
 *image*   |WEBP [tiny-webp](https://github.com/justus2510/tiny-webp)                                                             (1   C, BSD3)          |Single header WebP decoder
+*image*   |[SQZ](https://github.com/MarcioPais/SQZ)                                                                              (2 C++, MIT)           |Low complexity, scalable lossless and lossy image compression library
 *ini*     |[Inih](https://github.com/benhoyt/inih)                                                                               (2   C, BSD)           |.ini file parser
 *input*   |[EasyTab](https://github.com/ApoorvaJ/EasyTab)                                                                      **(1   C, PD)**          |**Multi-platform tablet input**
 *json*    |[Ajson](https://github.com/lordoffox/ajson)                                                                           (1 C++, BOOST)         |JSON serialize & deserialize w/ STL support
@@ -321,6 +324,8 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Voxelizer](https://github.com/karimnaaji/voxelizer)                                                                  (1   C, MIT)           |Convert triangle mesh to voxel triangle mesh
 *math*    |[Xatlas](https://github.com/jpcy/xatlas)                                                                              (2 C++, MIT)           |Mesh parameterization
 *mem*     |[Buddy_alloc](https://github.com/spaskalev/buddy_alloc)                                                             **(1   C, BSD0)**        |**Buddy memory allocator**
+*mem*     |[Gc](https://github.com/abdimoallim/gc)                                                                              (1   C, APACHE2)       |Header-only conservative tracing garbage collector for C
+*mem*     |[Mem](https://github.com/cuckydev/mem)                                                                              (1   C, PD)            |Tiny portable C89 memory allocator
 *mem*     |[Stb_leakcheck](https://github.com/nothings/stb/blob/master/stb_leakcheck.h)                                        **(1   C, PD)**          |**Quick-and-dirty malloc/free leak-checking**
 *mem*     |[Wb_alloc](https://github.com/WilliamBundy/wb_alloc)                                                                **(1   C, PD)**          |**Custom allocators in a single-header**
 *mesh*    |[Cgltf](https://github.com/jkuhlmann/cgltf)                                                                           (1   C, MIT)           |GlTF 2.0 file loader
@@ -332,6 +337,7 @@ Single-header C files with clause-less licenses are highlighted.
 *mesh*    |[Tinyobjloader](https://github.com/syoyo/tinyobjloader)                                                               (1 C++, MIT)           |Wavefront OBJ file loader
 *mesh*    |[Tinyply](https://github.com/ddiakopoulos/tinyply)                                                                    (2 C++, PD)            |PLY mesh file loader
 *mesh*    |[Tk_objfile](https://github.com/joeld42/tk_objfile)                                                                   (1   C, MIT)           |OBJ file loader
+*mesh*    |[Ufbx](https://github.com/ufbx/ufbx)                                                                                 (2   C, PD)            |Single source file FBX (Filmbox) loader, MIT/PD
 *misc*    |[ASAP](https://github.com/mobius3/asap)                                                                               (1 C++, MIT)           |Library for parsing, printing, iterating and operating on dates.
 *misc*    |[ASN.1 DER](https://github.com/zzo38/superzz0/blob/trunk/asn1.c)                                                      (2   C, PD)            |Encoder/decoder for ASN.1 DER format.
 *misc*    |[CLM_LIBS](https://github.com/CarlosLunaMota/CLM_LIBS)                                                              **(1   C, PD)**          |**Diverse utilities**
@@ -354,6 +360,7 @@ Single-header C files with clause-less licenses are highlighted.
 *misc*    |[Stmr](https://github.com/wooorm/stmr.c)                                                                              (2   C, MIT)           |Extract English word stems
 *misc*    |[X.h](https://github.com/Neur1n/x.h)                                                                                  (1   C, MULAN2)        |Cross-platform C/C++ utilities
 "misc"    |[TinyRISCV64](https://github.com/neilstephens/TinyRISCV64.git)                                                        (1 C++, MIT)           |RISC-V RV64IM Virtual Machine
+*misc*    |[Raft_amalgamation](https://github.com/willemt/raft_amalgamation)                                                    (1   C, BSD)           |Single header Raft consensus protocol implementation
 *nav*     |[M_path_finding.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_path_finding.h)     (1   C, ZLIB)          |Floodfill-based path finding
 *nav*     |[Micropather](https://github.com/leethomason/MicroPather)                                                             (2 C++, ZLIB)          |Pathfinding with A\*
 *net*     |[Civetweb](https://github.com/civetweb/civetweb)                                                                      (2   C, MIT)           |HTTP server, fork of Mongoose
@@ -376,6 +383,7 @@ Single-header C files with clause-less licenses are highlighted.
 *net*     |[Yocto](https://github.com/tom-seddon/yhs)                                                                            (2   C, PD)            |Non-production-use HTTP server
 *net*     |[Zed_net](https://github.com/Smilex/zed_net)                                                                        **(1   C, PD)**          |**Cross-platform socket wrapper**
 *net*     |[Znet](https://github.com/starwing/znet)                                                                              (1   C, MIT)           |Cross-platform networking w/ Lua binding
+*net*     |[Joirc](https://github.com/joric/joirc)                                                                              (1   C, PD)            |Single-file IRC daemon
 *nn*      |[Qmtik](https://github.com/shinymonitor/qmtik)                                                                        (1   C, MIT)           |Quantized Model Training and Inference Kit
 *pack*    |[Dmc_unrar](https://github.com/DrMcCoy/dmc_unrar)                                                                     (1   C, GPL2)          |RAR file decompression
 *pack*    |[Fastlz](https://code.google.com/archive/p/fastlz/source/default/source)                                              (2   C, MIT)           |Fast but larger LZ compression
@@ -442,6 +450,7 @@ Single-header C files with clause-less licenses are highlighted.
 *sys*     |[Openmodal](https://gitlab.com/bztsrc/openmodal)                                                                      (1   C, MIT)           |Native file modals
 *sys*     |[Rang](https://github.com/agauniyal/rang)                                                                             (1 C++, PD)            |Cross-platform colored console text
 *sys*     |[Xproc](https://github.com/time-killer-games/xproc)                                                                   (2 C++, MIT)           |Foreign Process Information
+*sys*     |[Ipc](https://github.com/jarikomppa/ipc)                                                                              (1   C, PD)            |Cross-platform inter-process communication primitives
 *thread*  |[Bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)                                                              (1   C, MIT)           |Cross-platform lock free fixed memory hierarchical work scheduler
 *thread*  |[Cds_job](https://codeberg.org/cdwfs/cds_job)                                                                           (1 C++, PD)            |Lock-free job queue
 *thread*  |[Cds_sync](https://codeberg.org/cdwfs/cds_sync)                                                                       **(1   C, PD)**          |**Collection of synchronization primitives**
@@ -500,6 +509,8 @@ Entries in this appendix either do not offer a single-header file directly, or t
 *pack*    |[Zstd](https://github.com/facebook/zstd/tree/dev/build/single_file_libs)     (?   C, BSD3)   |Fast real-time compression algorithm
 *sys*     |[Cpuid](https://github.com/anzz1/cpuid)                                      (1   C, ???)    |Cross-platform cpuid intrinsic
 *sys*     |[Iathook](https://github.com/anzz1/iathook)                                  (1   C, ???)    |Import address table hooking library (x86/x64,w32)
+*net*     |[Bq_websocket](https://github.com/bqqbarbhg/bq_websocket)                   (2+  C, MIT)    |WebSocket protocol (core is 2 files; full repo also has reference platform impl, so 4 files total)
+*ds*      |[c-data-structures](https://github.com/schellingb/c-data-structures)        (3   C, PD)     |Collection of single-header data structure libs (tinybuf, tinyhashmap, tinyhashmap64)
 
 <!-- todo
 
@@ -510,17 +521,22 @@ https://github.com/azmr/sweet - NO license
 https://github.com/983/df
 https://github.com/983/fft
 https://github.com/andrewwillmott/colour-blind-luts
-https://github.com/bqqbarbhg/bq_websocket
-https://github.com/jarikomppa/ipc
-https://github.com/joric/joirc
-https://github.com/schellingb/c-data-structures
-https://github.com/ufbx/ufbx
-https://github.com/wangyi-fudan/wyhash
 https://github.com/wangyi-fudan/wyHLL
-https://github.com/willemt/raft_amalgamation
-https://github.com/willemt/splay-tree
 https://github.com/willemt/yabtorrent
 https://github.com/xtopher-xyz/xrns-player
+
+# Added in #283 (docs: add curated single-header libraries from #274 backlog):
+# - wangyi-fudan/wyhash        -> hash*
+# - jarikomppa/ipc              -> sys*
+# - joric/joirc                 -> net*
+# - ufbx/ufbx                   -> mesh*
+# - willemt/raft_amalgamation   -> misc*
+# - willemt/splay-tree          -> ds*
+# - MarcioPais/SQZ              -> image*
+# - abdimoallim/gc              -> mem*
+# - cuckydev/mem                -> mem*
+# - bqqbarbhg/bq_websocket     -> secondary (core 2 files, but full repo has 4)
+# - schellingb/c-data-structures -> secondary (3 single-header files)
 
 https://en.cppreference.com/w/cpp/links/libs
 -->
