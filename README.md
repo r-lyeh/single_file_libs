@@ -321,6 +321,7 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Voxelizer](https://github.com/karimnaaji/voxelizer)                                                                  (1   C, MIT)           |Convert triangle mesh to voxel triangle mesh
 *math*    |[Xatlas](https://github.com/jpcy/xatlas)                                                                              (2 C++, MIT)           |Mesh parameterization
 *mem*     |[Buddy_alloc](https://github.com/spaskalev/buddy_alloc)                                                             **(1   C, BSD0)**        |**Buddy memory allocator**
+*mem*     |[easy_memory](https://github.com/EasyMem/easy_memory)                                                                 (1   C, MIT)           |Platform-agnostic memory management system with LLRB trees and modular sub-allocators
 *mem*     |[Stb_leakcheck](https://github.com/nothings/stb/blob/master/stb_leakcheck.h)                                        **(1   C, PD)**          |**Quick-and-dirty malloc/free leak-checking**
 *mem*     |[Wb_alloc](https://github.com/WilliamBundy/wb_alloc)                                                                **(1   C, PD)**          |**Custom allocators in a single-header**
 *mesh*    |[Cgltf](https://github.com/jkuhlmann/cgltf)                                                                           (1   C, MIT)           |GlTF 2.0 file loader
