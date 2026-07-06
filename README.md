@@ -210,6 +210,7 @@ Single-header C files with clause-less licenses are highlighted.
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
 *file*    |[ByteArray](https://github.com/dg4l/bytearray)                                                                        (2   C, GPL3)          |Library to read, write and print binary files
 *file*    |[Dirent](https://github.com/tronkko/dirent)                                                                           (1   C, MIT)           |Dirent for Windows: retrieve file & dir info
+*file*    |[fs](https://github.com/mackron/fs)                                                                                 **(2   C, PD/MIT-0)**    |File system and archive abstraction library, supports fs/zip/pak/RAM (Win/Mac/Unix)
 *file*    |[Miniphysfs](https://github.com/edubart/miniphysfs)                                                                   (1   C, ZLIB)          |Single-file port of PhysFS, a fs/zip abstraction
 *file*    |[Tfile](https://github.com/rec/tfile)                                                                                 (1 C++, MIT)           |FILE* wrapper does read-write-append-seek-close (Win/Mac/Unix)
 *file*    |[TinyDir](https://github.com/cxong/tinydir)                                                                           (1   C, BSD)           |Cross-platform directory reading (Win/POSIX/MinGW)
