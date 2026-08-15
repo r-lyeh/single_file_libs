@@ -435,6 +435,7 @@ Single-header C files with clause-less licenses are highlighted.
 *string*  |[Str_view.hpp](https://github.com/sawickiap/str_view)                                                                 (1 C++, MIT)           |Null-termination-aware string-view class
 *string*  |[Tinyformat](https://github.com/c42f/tinyformat)                                                                      (1 C++, BOOST)         |Typesafe printf
 *string*  |[Utf8](https://github.com/sheredom/utf8.h)                                                                          **(1   C, PD)**          |**UTF-8 string library**
+*string*  |[stb_string](https://github.com/BradBenJoya/stb_string)                                                             **(1 C, MIT)**           |**Simple stb single header string library** 
 *svg*     |[SimpleSVG](https://github.com/adishavit/simple-svg)                                                                  (1 C++, BSD3)          |Easy to use SVG library
 *sys*     |[Doops](https://github.com/eduardsui/doops)                                                                         **(1   C, PD)**          |**Event loop library**
 *sys*     |[Dotenv](https://github.com/Vesteria-Coding/dotenv)                                                                   (1 C++, Apache2)       |Lightweight .env File Loader Library
