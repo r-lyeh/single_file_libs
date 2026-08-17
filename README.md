@@ -435,6 +435,7 @@ Single-header C files with clause-less licenses are highlighted.
 *string*  |[Str_view.hpp](https://github.com/sawickiap/str_view)                                                                 (1 C++, MIT)           |Null-termination-aware string-view class
 *string*  |[Tinyformat](https://github.com/c42f/tinyformat)                                                                      (1 C++, BOOST)         |Typesafe printf
 *string*  |[Utf8](https://github.com/sheredom/utf8.h)                                                                          **(1   C, PD)**          |**UTF-8 string library**
+*string*  |[bbj_string](https://github.com/BradBenJoya/bbj_string)                                                             **(1   C, PD)**          |**Simple string library** 
 *svg*     |[SimpleSVG](https://github.com/adishavit/simple-svg)                                                                  (1 C++, BSD3)          |Easy to use SVG library
 *sys*     |[Doops](https://github.com/eduardsui/doops)                                                                         **(1   C, PD)**          |**Event loop library**
 *sys*     |[Dotenv](https://github.com/Vesteria-Coding/dotenv)                                                                   (1 C++, Apache2)       |Lightweight .env File Loader Library
@@ -444,8 +445,8 @@ Single-header C files with clause-less licenses are highlighted.
 *sys*     |[Rang](https://github.com/agauniyal/rang)                                                                             (1 C++, PD)            |Cross-platform colored console text
 *sys*     |[Xproc](https://github.com/time-killer-games/xproc)                                                                   (2 C++, MIT)           |Foreign Process Information
 *thread*  |[Bikeshed.h](https://github.com/DanEngelbrecht/bikeshed)                                                              (1   C, MIT)           |Cross-platform lock free fixed memory hierarchical work scheduler
-*thread*  |[Cds_job](https://codeberg.org/cdwfs/cds_job)                                                                           (1 C++, PD)            |Lock-free job queue
-*thread*  |[Cds_sync](https://codeberg.org/cdwfs/cds_sync)                                                                       **(1   C, PD)**          |**Collection of synchronization primitives**
+*thread*  |[Cds_job](https://codeberg.org/cdwfs/cds_job)                                                                         (1 C++, PD)            |Lock-free job queue
+*thread*  |[Cds_sync](https://codeberg.org/cdwfs/cds_sync)                                                                     **(1   C, PD)**          |**Collection of synchronization primitives**
 *thread*  |[TinyCThread](https://tinycthread.github.io/)                                                                         (2   C, ZLIB)          |Cross-platform implementation of the C11 Threads API
 *thread*  |[TinyThread++](https://tinythreadpp.bitsnbites.eu/)                                                                   (2 C++, ZLIB)          |Cross-platform implementation of the C++11 Threads API
 *ui*      |[Clay](https://github.com/nicbarker/clay)                                                                             (1   C, ZLIB)          |High performance 2D UI layout library
