@@ -99,6 +99,7 @@ Single-header C files with clause-less licenses are highlighted.
 
 |tag      | library | description
 |:-------:|:---------|:-----------------
+"misc"    |[TinyRISCV64](https://github.com/neilstephens/TinyRISCV64.git)                                                        (1 C++, MIT)           |RISC-V RV64IM Virtual Machine
 *2d*      |[Blendish](https://hg.sr.ht/~duangle/oui-blendish)                                                                    (1   C, MIT)           |Blender-style widget rendering using NanoVG
 *2d*      |[C-Turtle](https://github.com/walkerje/C-Turtle)                                                                      (1 C++, MIT)           |Port of Python's Turtle to C++
 *2d*      |[Cgl](https://github.com/Jaysmito101/cgl)                                                                             (2   C, MIT)           |C Game Library
@@ -208,6 +209,11 @@ Single-header C files with clause-less licenses are highlighted.
 *engine*  |[Kit](https://github.com/rxi/kit)                                                                                   **(1   C, PD)**          |**Tiny library for making small games with big pixels**
 *engine*  |[OlcPixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)                                              (1 C++, BSD3)          |Game engine
 *engine*  |[Punity](https://github.com/martincohen/Punity)                                                                       (1   C, MIT)           |A tiny game engine in C
+*eval*    |[Ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)                                                (1   C, MIT)           |A single-header library for parsing and evaluation of arithmetic expressions
+*eval*    |[Evalmath](https://github.com/ribbon-otter/evalmath)                                                                  (2 C++, 0MIT)          |C++23 simple math string evaluation with specific error messages
+*eval*    |[ExprTk](https://www.partow.net/programming/exprtk/index.html)                                                        (1 C++, MIT)           |Runtime mathematical expression parser and evaluation engine.
+*eval*    |[Miscsrc's eval.h & eval.cpp](https://github.com/wernsey/miscsrc)                                                     (2   C, UNLICENSE)     |C math string evaluation
+*eval*    |[TinyExpr](https://github.com/codeplea/tinyexpr)                                                                      (2   C, ZLIB)          |Evaluation of math expressions from strings
 *file*    |[ByteArray](https://github.com/dg4l/bytearray)                                                                        (2   C, GPL3)          |Library to read, write and print binary files
 *file*    |[Dirent](https://github.com/tronkko/dirent)                                                                           (1   C, MIT)           |Dirent for Windows: retrieve file & dir info
 *file*    |[fs](https://github.com/mackron/fs)                                                                                 **(2   C, PD/MIT-0)**    |File system and archive abstraction library, supports fs/zip/pak/RAM (Win/Mac/Unix)
@@ -282,13 +288,11 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Aint](https://github.com/TealEgg/aint)                                                                             **(1   C, PD)**          |Single-header C99 library for large integers
 *math*    |[Amoeba](https://github.com/starwing/amoeba)                                                                          (1   C, MIT)           |Constraint solver (Cassowary) w/Lua binding
 *math*    |[Cds_spline](https://codeberg.org/cdwfs/cds_spline)                                                                 **(1   C, PD)**          |**Spline utils**
-*math*    |[Ceval-single-header](https://github.com/e-t-sudo/ceval-single-header)                                                (1   C, MIT)           |A single-header library for parsing and evaluation of arithmetic expressions
 *math*    |[Clipper](https://www.angusj.com/delphi/clipper.php)                                                                  (2 C++, BOOST)         |Line & polygon clipping & offsetting
-*math*    |[Delaunay](https://github.com/BrunoLevy/geogram.psm.Delaunay)                                                         (2 C++, BSD3)          |2D and 3D Delaunay triangulation
 *math*    |[Delaunay (Constrained)](https://github.com/raylee9919/cdt)                                                         **(1   C, PD)**          |**2D Constrained Delaunay Triangulation**
+*math*    |[Delaunay](https://github.com/BrunoLevy/geogram.psm.Delaunay)                                                         (2 C++, BSD3)          |2D and 3D Delaunay triangulation
 *math*    |[Df](https://github.com/983/df)                                                                                     **(1   C, PD)**          |**Find voronoi region in linear time of size of lattice**
 *math*    |[Dvector](https://github.com/BareRose/dvector)                                                                      **(1   C, PD)**          |**2D/3D vector/quaternion/matrix math library**
-*math*    |[ExprTk](https://www.partow.net/programming/exprtk/index.html)                                                        (1 C++, MIT)           |Runtime mathematical expression parser and evaluation engine.
 *math*    |[Fft](https://github.com/wareya/fft)                                                                                  (1 C++, PD)            |Fast Fourier Transform 
 *math*    |[HMM Toolkit](https://github.com/gerbenvoshol/Hidden-Markov-Model-Toolkit)                                            (1   C, GPL2)          |Discrete and continuous Hidden Markov Models (DHMM, CHMM)
 *math*    |[Jc_voronoi](https://github.com/JCash/voronoi)                                                                        (1   C, MIT)           |Find voronoi regions on float/double data
@@ -316,14 +320,10 @@ Single-header C files with clause-less licenses are highlighted.
 *math*    |[Statistics-Tool-Box](https://github.com/gerbenvoshol/Statistics-Tool-Box)                                          **(1   C, PD)**          |**Statistical functions**
 *math*    |[Stb_divide](https://github.com/nothings/stb/blob/master/stb_divide.h)                                              **(1   C, PD)**          |**More useful 32-bit modulus**
 *math*    |[SummedAreaTable](https://github.com/corporateshark/Summed-Area-Table.git)                                            (1 C++, MIT)           |Summed-Area Table generation and sum/avg queries
-*math*    |[TinyExpr](https://github.com/codeplea/tinyexpr)                                                                      (2   C, ZLIB)          |Evaluation of math expressions from strings
 *math*    |[Tomas Akenine-Moller snippets](https://tinyurl.com/ht79ndj)                                                          (2   C, PD)            |Various 3D intersection calculations, not lib-ified
 *math*    |[Vmath](https://github.com/monolifed/vmath)                                                                         **(1   C, PD)**          |**Vector/matrix library**
 *math*    |[Voxelizer](https://github.com/karimnaaji/voxelizer)                                                                  (1   C, MIT)           |Convert triangle mesh to voxel triangle mesh
 *math*    |[Xatlas](https://github.com/jpcy/xatlas)                                                                              (2 C++, MIT)           |Mesh parameterization
-*math-str*|[Evalmath](https://github.com/ribbon-otter/evalmath)                                                                  (2 C++, 0MIT)          |C++23 simple math string evaluation with specific error messages
-*math-str*|[TinyExpr](https://github.com/codeplea/tinyexpr)                                                                      (2   C, ZLIB)          |C99 math string evaluation and compilation with rebindable variables
-*math-str*|[Miscsrc's eval.h & eval.cpp](https://github.com/wernsey/miscsrc)                                                     (2   C, UNLICENSE)     |C math string evaluation
 *mem*     |[Buddy_alloc](https://github.com/spaskalev/buddy_alloc)                                                             **(1   C, BSD0)**        |**Buddy memory allocator**
 *mem*     |[easy_memory](https://github.com/EasyMem/easy_memory)                                                                 (1   C, MIT)           |Platform-agnostic memory management system with LLRB trees and modular sub-allocators
 *mem*     |[Stb_leakcheck](https://github.com/nothings/stb/blob/master/stb_leakcheck.h)                                        **(1   C, PD)**          |**Quick-and-dirty malloc/free leak-checking**
@@ -358,7 +358,6 @@ Single-header C files with clause-less licenses are highlighted.
 *misc*    |[Stb_include](https://github.com/nothings/stb/blob/master/stb_include.h)                                            **(1   C, PD)**          |**Implement recursive #include support, particularly for GLSL**
 *misc*    |[Stmr](https://github.com/wooorm/stmr.c)                                                                              (2   C, MIT)           |Extract English word stems
 *misc*    |[X.h](https://github.com/Neur1n/x.h)                                                                                  (1   C, MULAN2)        |Cross-platform C/C++ utilities
-"misc"    |[TinyRISCV64](https://github.com/neilstephens/TinyRISCV64.git)                                                        (1 C++, MIT)           |RISC-V RV64IM Virtual Machine
 *nav*     |[M_path_finding.h](https://github.com/anael-seghezzi/Maratis-Tiny-C-library/blob/master/include/m_path_finding.h)     (1   C, ZLIB)          |Floodfill-based path finding
 *nav*     |[Micropather](https://github.com/leethomason/MicroPather)                                                             (2 C++, ZLIB)          |Pathfinding with A\*
 *net*     |[Civetweb](https://github.com/civetweb/civetweb)                                                                      (2   C, MIT)           |HTTP server, fork of Mongoose
@@ -427,6 +426,7 @@ Single-header C files with clause-less licenses are highlighted.
 *serial*  |[Qserial](https://github.com/earonesty/qserial)                                                                       (1 C++, BSD3)          |Schema-driven serialization library
 *serial*  |[Serialization helper](https://gist.github.com/TheServer201/9ae5322cd52f76c7d36af15d3b366762)                       **(1   C, WTFPL2)**      |**Serialization helper**
 *serial*  |[Visit_struct](https://github.com/cbeck88/visit_struct)                                                               (2 C++, BOOST)         |Struct-field reflection
+*string*  |[bbj_string](https://github.com/BradBenJoya/bbj_string)                                                             **(1   C, PD)**          |**Simple string library** 
 *string*  |[Csplit](https://github.com/jwlodek/csplit)                                                                           (1   C, MIT)           |String splitting and processing single-header library
 *string*  |[Dfa](https://bjoern.hoehrmann.de/utf-8/decoder/dfa/)                                                                 (2   C, MIT)           |Fast UTF-8 decoder (need a header file)
 *string*  |[Gb_string.h](https://github.com/gingerBill/gb)                                                                     **(1   C, PD)**          |**Dynamic strings**
@@ -439,7 +439,6 @@ Single-header C files with clause-less licenses are highlighted.
 *string*  |[Str_view.hpp](https://github.com/sawickiap/str_view)                                                                 (1 C++, MIT)           |Null-termination-aware string-view class
 *string*  |[Tinyformat](https://github.com/c42f/tinyformat)                                                                      (1 C++, BOOST)         |Typesafe printf
 *string*  |[Utf8](https://github.com/sheredom/utf8.h)                                                                          **(1   C, PD)**          |**UTF-8 string library**
-*string*  |[bbj_string](https://github.com/BradBenJoya/bbj_string)                                                             **(1   C, PD)**          |**Simple string library** 
 *svg*     |[SimpleSVG](https://github.com/adishavit/simple-svg)                                                                  (1 C++, BSD3)          |Easy to use SVG library
 *sys*     |[Doops](https://github.com/eduardsui/doops)                                                                         **(1   C, PD)**          |**Event loop library**
 *sys*     |[Dotenv](https://github.com/Vesteria-Coding/dotenv)                                                                   (1 C++, Apache2)       |Lightweight .env File Loader Library
